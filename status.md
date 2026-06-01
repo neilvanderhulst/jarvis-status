@@ -12,7 +12,9 @@
 
 ## Capabilities
 
-| Type | Count |\n|------|-------|\n| agent | 4 |
+| Type | Count |
+|------|-------|
+| agent | 4 |
 | cron_job | 4 |
 | mcp_tool | 5 |
 | route | 38 |
