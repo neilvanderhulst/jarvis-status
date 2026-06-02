@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T21:37:41.130244+00:00",
+  "updated_at": "2026-06-02T06:05:01.592792+00:00",
   "capabilities": {
     "total": 97,
     "by_type": {
@@ -41,7 +41,7 @@
     ]
   ],
   "last_autodream": "2026-05-30",
-  "open_backlog_items": 11,
+  "open_backlog_items": 8,
   "system": "JARV1S \u2014 personal AI assistant",
   "repo": "https://github.com/neilvanderhulst/jarvis-core"
 }

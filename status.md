@@ -1,13 +1,13 @@
 # JARV1S Status
 
-*Updated: 2026-06-01 21:37 UTC*
+*Updated: 2026-06-02 06:05 UTC*
 
 ## System
 
 | Field | Value |
 |-------|-------|
 | Active skills | 3 |
-| Open backlog | 11 items |
+| Open backlog | 8 items |
 | Last AutoDream | 2026-05-30 |
 
 ## Capabilities
