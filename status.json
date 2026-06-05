@@ -1,47 +1,19 @@
 {
-  "updated_at": "2026-06-04T06:05:01.734000+00:00",
+  "updated_at": "2026-06-05T06:05:02.121503+00:00",
   "capabilities": {
-    "total": 97,
-    "by_type": {
-      "agent": 4,
-      "cron_job": 4,
-      "mcp_tool": 5,
-      "route": 38,
-      "script": 24,
-      "workflow": 22
-    }
+    "total": 0,
+    "by_type": {}
   },
   "skills": {
-    "active": 3
+    "active": 0
   },
   "cost_this_period": {
-    "eur": 0.1297,
-    "calls": 441
+    "eur": 0,
+    "calls": 0
   },
-  "top_routes": [
-    [
-      "CLASSIFY",
-      138
-    ],
-    [
-      "VOICE",
-      74
-    ],
-    [
-      "META",
-      71
-    ],
-    [
-      "META_VALIDATE",
-      71
-    ],
-    [
-      "SIMPLE",
-      28
-    ]
-  ],
-  "last_autodream": "2026-06-03",
-  "open_backlog_items": 8,
+  "top_routes": [],
+  "last_autodream": null,
+  "open_backlog_items": 0,
   "system": "JARV1S \u2014 personal AI assistant",
   "repo": "https://github.com/neilvanderhulst/jarvis-core"
 }
