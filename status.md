@@ -1,31 +1,42 @@
 # JARV1S Status
 
-*Updated: 2026-06-21 06:05 UTC*
+*Updated: 2026-06-22 06:05 UTC*
 
 ## System
 
 | Field | Value |
 |-------|-------|
-| Active skills | 0 |
-| Open backlog | 0 items |
-| Last AutoDream | — |
+| Active skills | 3 |
+| Open backlog | 8 items |
+| Last AutoDream | 2026-06-22 |
 
 ## Capabilities
 
-_No data_
+| Type | Count |
+|------|-------|
+| agent | 4 |
+| cron_job | 4 |
+| mcp_tool | 5 |
+| route | 38 |
+| script | 24 |
+| workflow | 22 |
 
 ## Activity (recent period)
 
 | Metric | Value |
 |--------|-------|
-| Total calls | 0 |
-| Estimated cost | €0 |
+| Total calls | 447 |
+| Estimated cost | €0.1612 |
 
 ### Top routes
 
 | Route | Calls |
 |-------|-------|
-_No data_
+| CLASSIFY | 140 |
+| VOICE | 74 |
+| META | 72 |
+| META_VALIDATE | 72 |
+| SIMPLE | 28 |
 
 ---
 *[jarvis-core](https://github.com/neilvanderhulst/jarvis-core) — private build repo*
