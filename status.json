@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-28T06:05:01.399982+00:00",
+  "updated_at": "2026-06-29T06:05:02.204445+00:00",
   "capabilities": {
-    "total": 97,
+    "total": 98,
     "by_type": {
       "agent": 4,
       "cron_job": 4,
       "mcp_tool": 5,
-      "route": 38,
+      "route": 39,
       "script": 24,
       "workflow": 22
     }
