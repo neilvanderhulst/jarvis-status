@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-11T06:05:01.404546+00:00",
+  "updated_at": "2026-09-12T06:05:02.154031+00:00",
   "capabilities": {
-    "total": 99,
-    "by_type": {
-      "agent": 4,
-      "cron_job": 4,
-      "mcp_tool": 5,
-      "route": 39,
-      "script": 25,
-      "workflow": 22
-    }
+    "total": 0,
+    "by_type": {}
   },
   "skills": {
     "active": 3

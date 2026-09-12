@@ -1,6 +1,6 @@
 # JARV1S Status
 
-*Updated: 2026-09-11 06:05 UTC*
+*Updated: 2026-09-12 06:05 UTC*
 
 ## System
 
@@ -12,14 +12,7 @@
 
 ## Capabilities
 
-| Type | Count |
-|------|-------|
-| agent | 4 |
-| cron_job | 4 |
-| mcp_tool | 5 |
-| route | 39 |
-| script | 25 |
-| workflow | 22 |
+_No data_
 
 ## Activity (recent period)
 
