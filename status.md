@@ -1,6 +1,6 @@
 # JARV1S Status
 
-*Updated: 2026-09-14 06:05 UTC*
+*Updated: 2026-09-15 06:05 UTC*
 
 ## System
 
@@ -8,18 +8,25 @@
 |-------|-------|
 | Active skills | 3 |
 | Open backlog | 6 items |
-| Last AutoDream | 2026-09-14 |
+| Last AutoDream | 2026-09-15 |
 
 ## Capabilities
 
-_No data_
+| Type | Count |
+|------|-------|
+| agent | 4 |
+| cron_job | 4 |
+| mcp_tool | 5 |
+| route | 39 |
+| script | 25 |
+| workflow | 22 |
 
 ## Activity (recent period)
 
 | Metric | Value |
 |--------|-------|
 | Total calls | 500 |
-| Estimated cost | €0.302 |
+| Estimated cost | €0.3037 |
 
 ### Top routes
 
@@ -28,7 +35,7 @@ _No data_
 | CLASSIFY | 146 |
 | META | 73 |
 | META_VALIDATE | 73 |
-| AUTODREAM | 68 |
+| AUTODREAM | 69 |
 | VOICE | 68 |
 
 ---
