@@ -1,6 +1,6 @@
 # JARV1S Status
 
-*Updated: 2026-10-07 06:05 UTC*
+*Updated: 2026-10-08 06:05 UTC*
 
 ## System
 
@@ -8,7 +8,7 @@
 |-------|-------|
 | Active skills | 3 |
 | Open backlog | 6 items |
-| Last AutoDream | 2026-10-07 |
+| Last AutoDream | 2026-10-08 |
 
 ## Capabilities
 
@@ -26,17 +26,17 @@
 | Metric | Value |
 |--------|-------|
 | Total calls | 500 |
-| Estimated cost | €0.332 |
+| Estimated cost | €0.3328 |
 
 ### Top routes
 
 | Route | Calls |
 |-------|-------|
 | CLASSIFY | 144 |
-| AUTODREAM | 88 |
+| AUTODREAM | 89 |
 | META | 70 |
 | META_VALIDATE | 70 |
-| VOICE | 64 |
+| VOICE | 63 |
 
 ---
 *[jarvis-core](https://github.com/neilvanderhulst/jarvis-core) — private build repo*
