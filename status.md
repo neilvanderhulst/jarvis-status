@@ -1,6 +1,6 @@
 # JARV1S Status
 
-*Updated: 2026-10-27 07:05 UTC*
+*Updated: 2026-10-28 07:05 UTC*
 
 ## System
 
@@ -8,7 +8,7 @@
 |-------|-------|
 | Active skills | 3 |
 | Open backlog | 6 items |
-| Last AutoDream | 2026-10-27 |
+| Last AutoDream | 2026-10-28 |
 
 ## Capabilities
 
@@ -33,10 +33,10 @@
 | Route | Calls |
 |-------|-------|
 | CLASSIFY | 139 |
-| AUTODREAM | 108 |
+| AUTODREAM | 109 |
 | META | 66 |
 | META_VALIDATE | 66 |
-| VOICE | 59 |
+| VOICE | 58 |
 
 ---
 *[jarvis-core](https://github.com/neilvanderhulst/jarvis-core) — private build repo*
