@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T07:05:01.906843+00:00",
+  "updated_at": "2026-10-30T07:05:01.619094+00:00",
   "capabilities": {
     "total": 99,
     "by_type": {
@@ -15,7 +15,7 @@
     "active": 3
   },
   "cost_this_period": {
-    "eur": 0.3641,
+    "eur": 0.3655,
     "calls": 500
   },
   "top_routes": [
@@ -25,11 +25,11 @@
     ],
     [
       "AUTODREAM",
-      110
+      111
     ],
     [
       "META",
-      66
+      65
     ],
     [
       "META_VALIDATE",
@@ -40,7 +40,7 @@
       58
     ]
   ],
-  "last_autodream": "2026-10-29",
+  "last_autodream": "2026-10-30",
   "open_backlog_items": 6,
   "system": "JARV1S \u2014 personal AI assistant",
   "repo": "https://github.com/neilvanderhulst/jarvis-core"
