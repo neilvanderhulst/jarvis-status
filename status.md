@@ -1,6 +1,6 @@
 # JARV1S Status
 
-*Updated: 2026-11-27 07:05 UTC*
+*Updated: 2026-11-28 07:05 UTC*
 
 ## System
 
@@ -8,7 +8,7 @@
 |-------|-------|
 | Active skills | 3 |
 | Open backlog | 6 items |
-| Last AutoDream | 2026-11-27 |
+| Last AutoDream | 2026-11-28 |
 
 ## Capabilities
 
@@ -26,14 +26,14 @@
 | Metric | Value |
 |--------|-------|
 | Total calls | 500 |
-| Estimated cost | €0.4083 |
+| Estimated cost | €0.4101 |
 
 ### Top routes
 
 | Route | Calls |
 |-------|-------|
-| AUTODREAM | 137 |
-| CLASSIFY | 128 |
+| AUTODREAM | 138 |
+| CLASSIFY | 127 |
 | META | 59 |
 | META_VALIDATE | 59 |
 | VOICE | 55 |
